@@ -1,0 +1,5 @@
+﻿  person.cpp
+c:\users\default\desktop\person\person\person.cpp(12): error C2761: 'std::string person::GetName(void) const': redeclaration of member is not allowed
+c:\users\default\desktop\person\person\person.cpp(12): error C2447: '{': missing function header (old-style formal list?)
+c:\users\default\desktop\person\person\person.cpp(21): error C2761: 'std::string person::GetEmail(void) const': redeclaration of member is not allowed
+c:\users\default\desktop\person\person\person.cpp(21): error C2447: '{': missing function header (old-style formal list?)
